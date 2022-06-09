@@ -8,4 +8,4 @@ El anteproyecto está definido en este [documento](https://docs.google.com/docum
   En en el siguiente [enlace](https://www.figma.com/file/wOqhqaEfFB0Qzaoxj9MTuP/Untitled?node-id=0%3A1) se encuentran los mockups de la app.
 
 # Historias de Usuario
-Detalladas en este [proyecto](https://github.com/Flornakasone/kisha/projects/2)
+Detalladas en este [proyecto](https://github.com/users/Flornakasone/projects/2/views/1)
